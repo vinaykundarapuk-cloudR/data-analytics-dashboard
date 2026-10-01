@@ -39,3 +39,9 @@ data-analytics-dashboard/
 ├── dashboard/
 └── README.md
 
+
+## Tableau Dashboard
+
+View the interactive dashboard on Tableau Public:
+
+[Sales Performance Dashboard](https://public.tableau.com/app/profile/vinay.kundarapu/viz/SalesPerformanceDashboard_17908846652160/SalesPerformanceDashboard)
